@@ -1,0 +1,84 @@
+{
+    "songs": [
+        {
+            "id": 0,
+            "title": "Adavi Chetla Naduma",
+            "author": "",
+            "album": "",
+            "category": "Andhra Christian Songs",
+            "language": "tel",
+            "lyrics_en": "Adavi Chetla Naduma Oka Jaldaru Vruksham Vale \n Parishuddula Samaajamulo \n Yesu Prajvalinchuchunnaadu (2) \nKeerthinthunNaaPrabhuni\nJeevaKaalamellaPrabhuYesuni\nKruthagnathathoSthuthinchedanu(2)",
+            "lyrics_tel": "అడవి చెట్ల నడుమ ఒక జల్దరు వృక్షం వలె \n పరిశుద్ధుల సమాజములో యేసు ప్రజ్వలించుచున్నాడు (2) \n కీర్తింతున్ నా ప్రభుని \n జీవ కాలమెల్ల ప్రభు యేసుని కృతజ్ఞతతో స్తుతించెదను (2)",
+            "hidden": false,
+            "song_number_in_books": [
+                {
+                    "book_name": "Andhra Christian Song book",
+                    "song_number": 156
+                },
+                {
+                    "book_name": "Hebron Song book",
+                    "song_number": 120
+                }
+            ],
+            "tags": [
+                "Adavi",
+                "Naduma",
+                "telugu",
+                "Andhra Christian Songs"
+            ],
+            "thumbnail": {
+                "sqDefault": "http://uecf.net/images/souvenir.jpg",
+                "hqDefault": "http://uecf.net/images/souvenir.jpg"
+            },
+            "video_links": [
+                "http://youtube.com/testtest"
+            ],
+            "added_at": "2012-04-08T21:37:06.000Z",
+            "updated": "2012-04-08T21:37:06.000Z",
+            "added_by": "system",
+            "likeCount": 5,
+            "viewCount": 12,
+            "favoriteCount": 15
+        },
+        {
+            "id": 1,
+            "title": "Athyunnatha Simhaasanamupai",
+            "author": "",
+            "album": "",
+            "category": "Andhra Christian Songs",
+            "language": "tel",
+            "lyrics_en": "Athyunnatha Simhaasanamupai – Aaseenudavaina Devaa \n Athyantha Premaa Swaroopivi Neeve \n Aaraadhinthunu Ninne",
+            "lyrics_tel": "అత్యున్నత సింహాసనముపై – ఆసీనుడవైన దేవా \n అత్యంత ప్రేమా స్వరూపివి నీవే \n ఆరాధింతును నిన్నే \n ఆహాహా.. హల్లెలూయా – ఆహాహా.. హల్లెలూయా (3)",
+            "hidden": false,
+            "song_number_in_books": [
+                {
+                    "book_name": "Andhra Christian Song book",
+                    "song_number": 156
+                },
+                {
+                    "book_name": "Hebron Song book",
+                    "song_number": 120
+                }
+            ],
+            "tags": [
+                "Adavi",
+                "Naduma",
+                "telugu",
+                "Andhra Christian Songs"
+            ],
+            "thumbnail": {
+                "sqDefault": "http://uecf.net/images/souvenir.jpg",
+                "hqDefault": "http://uecf.net/images/souvenir.jpg"
+            },
+            "video_links": [
+                "http://youtube.com/testtest"
+            ],
+            "added_at": "2012-04-08T21:37:06.000Z",
+            "updated": "2012-04-08T21:37:06.000Z",
+            "added_by": "system",
+            "likeCount": 5,
+            "viewCount": 12,
+            "favoriteCount": 15
+        }
+    ]
+}

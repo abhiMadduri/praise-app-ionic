@@ -1,0 +1,31 @@
+<!--
+  Generated template for the SongDetail page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar color = "primary">
+    <ion-title>song-detail</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <!--<ion-list>
+        <ion-list-header class="my-teams-header">English Christian Song</ion-list-header>
+         <ion-item *ngFor="let s of results">
+             {{s.lyrics_en}}
+        </ion-item>
+  </ion-list>-->
+  <!--<p *ngFor="let s of results" class = "wrapping-list">
+    {{s.lyrics_en}}
+  </p>-->
+  
+    <div *ngFor="let s of results">
+     {{s}}
+    </div>
+  
+</ion-content>
