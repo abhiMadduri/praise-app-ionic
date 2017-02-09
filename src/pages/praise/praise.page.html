@@ -19,7 +19,7 @@
 </ion-header>
 
 
-<ion-content>
+<!--<ion-content>
   <ion-list>
     <ion-item-group>
       <ion-item-divider color="light"></ion-item-divider>
@@ -29,5 +29,12 @@
             </ion-item>
     </ion-item-group>
   </ion-list>
+</ion-content>-->
 
-</ion-content>
+<ion-tabs>
+    <ion-tab tabTitle="English" [root]="praiseEnglishTab" [rootParams]="praises" tabIcon="basketball"></ion-tab>
+    <ion-tab tabTitle="Telugu" [root]="praiseTeluguTab" [rootParams]="praises" tabIcon="podium"></ion-tab>
+</ion-tabs>
+
+
+

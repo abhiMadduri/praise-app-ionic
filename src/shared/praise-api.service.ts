@@ -16,6 +16,13 @@ export class PraiseApi {
         })
     }
 
+    getAllTeluguPraises() {
+        return new Promise(resolve => {
+            this.http.get('../assets/praises/praises_telugu.json')
+            .subscribe(res => resolve(res.json()));
+        })
+    }
+
     getAllQuotes() {
         return new Promise(resolve => {
             this.http.get('../assets/quotes/quotes_english.json')
