@@ -33,19 +33,12 @@
     <img src = "../../assets/img/1.jpg" (click)="itemTapped($event, song)"/>
     
   </ion-card>-->
-<ion-card>
-    <img src = "../../assets/img/2.png" (click)="itemTapped($event, song)"/>
-    <div class="card-title">1000 Praises</div>
-    <div class="card-subtitle">Praises From Bible</div>
-  </ion-card>
-<ion-card>
-    <img src = "../../assets/img/2.png" (click)="itemTapped($event, song)"/>
-    <div class="card-title">English Christian Songs</div>
-    <div class="card-subtitle">Worship The Lord</div>
-  </ion-card>
-  <ion-card>
-    <img src = "../../assets/img/2.png"/>
-    <div class="card-title">Telugu Christian Songs</div>
-    <div class="card-subtitle">తెలుగు క్రైస్థవ గీతాలు</div>
-  </ion-card>
+<ion-list>
+<ion-item *ngFor="let type of songTypes">
+ <button (click)="itemTapped($event, song)">
+   {{ type.name }}
+  </button>
+</ion-item>
+
+</ion-list>
 </ion-content>

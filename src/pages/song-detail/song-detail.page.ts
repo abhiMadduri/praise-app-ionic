@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { NavController, NavParams, LoadingController } from 'ionic-angular';
 import { PraiseApi } from '../../shared/shared';
+import {SafeResourceUrl, DomSanitizer} from '@angular/platform-browser';
 
 
 /*
@@ -18,6 +19,7 @@ export class SongDetailPage {
     myString: string;
     myNumber: number;
 };
+    url: SafeResourceUrl;
     results = [];
     song : String;
     jsontext = '{"lyrics_en": "Amazing grace! How sweet the sound \\n That saved a wretch like me!"}';
@@ -65,8 +67,11 @@ export class SongDetailPage {
   constructor(
     public navCtrl: NavController,
     public praiseApi: PraiseApi,
-    public loadingController: LoadingController) {
+    public loadingController: LoadingController,
+    public sanitizer : DomSanitizer) {
             //    var obj: MyObj = JSON.parse('{ "myString": "string", "myNumber": 4 }');
+
+            this.url = this.sanitizer.bypassSecurityTrustResourceUrl('https://youtube.com/embed/CDdvReNKKuk');
 
   }
 

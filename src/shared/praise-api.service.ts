@@ -30,23 +30,30 @@ export class PraiseApi {
         })
     }
 
-    // getAllSongs() {
-    //     return new Promise(resolve => {
-    //         this.http.get('../assets/songs/songs_english.json')
-    //         .subscribe(res => resolve(res.json()));
-    //     })
-    // }
-
     getAllSongs() {
         return new Promise(resolve => {
-            this.http.get(`${this.baseUrl}/songs.json`)
+            this.http.get('../assets/songs/songs_english.json')
             .subscribe(res => resolve(res.json()));
         })
     }
 
+    // getAllSongs() {
+    //     return new Promise(resolve => {
+    //         this.http.get(`${this.baseUrl}/songs.json`)
+    //         .subscribe(res => resolve(res.json()));
+    //     })
+    // }
+
     // getAllPraises() {
     //     return new Promise(resolve => {
-    //         this.http.get(`${this.baseUrl}/praises.json`)
+    //         this.http.get(`${this.baseUrl}/praises_en.json`)
+    //         .subscribe(res => resolve(res.json()));
+    //     })
+    // }
+
+    // getAllTeluguPraises() {
+    //     return new Promise(resolve => {
+    //         this.http.get(`${this.baseUrl}/praises_tel.json`)
     //         .subscribe(res => resolve(res.json()));
     //     })
     // }
