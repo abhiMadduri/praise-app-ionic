@@ -2,7 +2,8 @@ import { Component } from '@angular/core';
 import { NavController, NavParams, LoadingController } from 'ionic-angular';
 import { PraiseApi } from '../../shared/shared';
 import {SafeResourceUrl, DomSanitizer} from '@angular/platform-browser';
-
+import { Pipe, Injectable } from '@angular/core'
+//import { PrettyPrint } from '../pages';
 
 /*
   Generated class for the SongDetail page.
@@ -13,15 +14,13 @@ import {SafeResourceUrl, DomSanitizer} from '@angular/platform-browser';
 @Component({
   selector: 'page-song-detail',
   templateUrl: 'song-detail.page.html'
+  //template: `<div> {{<p> dakjdgag \n hello </p>  | prettyPrint }}</div>`
 })
 export class SongDetailPage {
-    MyObj : {
-    myString: string;
-    myNumber: number;
-};
+    
     url: SafeResourceUrl;
     results = [];
-    song : String;
+    song : any;
     jsontext = '{"lyrics_en": "Amazing grace! How sweet the sound \\n That saved a wretch like me!"}';
   englishSong = {
             "id": 0,
@@ -30,8 +29,8 @@ export class SongDetailPage {
             "album": "",
             "category": "English Christian Songs",
             "language": "eng",
-            //"lyrics_en": "Amazing grace! How sweet the sound \\n That saved a wretch like me! ",
-            "lyrics_en": ["Amazing grace! How sweet the sound", "That saved a wretch like me! "],
+            "lyrics_en": "Amazing grace! How sweet the sound \\n That saved a wretch like me! ",
+            //"lyrics_en": ["Amazing grace! How sweet the sound", "That saved a wretch like me! "],
             "hidden": false,
             "song_number_in_books": [
                 {
@@ -78,19 +77,11 @@ export class SongDetailPage {
   ionViewDidLoad() {
     console.log('ionViewDidLoad SongDetailPage');
 
-        console.log('song after parsed..');
-        console.log(typeof this.jsontext);
-        //this.song = JSON.parse(this.jsontext);
-        this.results.push(this.englishSong.lyrics_en);
-        console.log(this.englishSong.lyrics_en);
-        // console.log(JSON.parse(this.jsontext.lyrics_en));
-        // JSON.parse(this.jsontext.lyrics_en);
-        // JSON.parse(this.jsontext, (k,v) => {
-        //     console.log('parsing..' + v);
-        //     let results = [];
-        //     results.push(JSON.parse(v));
-        //     this.song = v;
-        // });
+        this.song = JSON.parse(this.jsontext);
+        //this.song = this.jsontext.lyrics_en.split("\\n");
+        this.results.push(this.song);
+        console.log(this.results);
+        
 
     // let loader = this.loadingController.create({
     //   content: 'Getting Songs..'
@@ -114,3 +105,5 @@ export class SongDetailPage {
 //       })
 //   }
 }
+
+

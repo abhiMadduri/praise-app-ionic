@@ -6,3 +6,4 @@ export * from './home/home.page';
 export * from './praise-eng/praise-eng.page';
 export * from './praise-tel/praise-tel.page';
 export * from './songs-list/songs-list.page';
+export * from './song-detail/PrettyPrint';
