@@ -14,7 +14,7 @@
 
 
 <ion-content>
-  <ion-list>
+  <!--<ion-list>
     <ion-item-group>
       <ion-item-divider color="light"></ion-item-divider>
       <ion-item *ngFor="let p of praises">
@@ -22,5 +22,12 @@
                 <p>{{p.Verses}}</p>
             </ion-item>
     </ion-item-group>
-  </ion-list>
+  </ion-list>-->
+
+  <ion-list [virtualScroll] = "praises" [approxItemHeight]="'132px'" >
+      <ion-item *virtualItem = "let p" (click)="presentToast()"> 
+                {{p.Praises}}
+                <p>{{p.Verses}}</p>
+            </ion-item>
+   </ion-list>
 </ion-content>

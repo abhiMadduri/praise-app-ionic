@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { NavController, LoadingController, NavParams } from 'ionic-angular';
+import { NavController, LoadingController, NavParams, ToastController } from 'ionic-angular';
 import { PraiseApi } from '../../shared/shared';
 
 /*
@@ -13,12 +13,13 @@ import { PraiseApi } from '../../shared/shared';
   templateUrl: 'praise-eng.page.html'
 })
 export class PraiseEngPage {
-  
+
   praises : any;
   constructor(public navCtrl: NavController, 
     public navParams: NavParams,
     public loadingController: LoadingController,
-    public praiseApi: PraiseApi) {}
+    public praiseApi: PraiseApi,
+    public toastController: ToastController) {}
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad PraiseEngPage');
@@ -35,5 +36,19 @@ export class PraiseEngPage {
       })
     });
   }
+
+  presentToast($event) {
+    let toast = this.toastController.create( {
+      message : 'tapped',
+      duration : 300
+    });
+
+    toast.onDidDismiss(() => {
+      console.log('Dismissed toast');
+    });
+
+    toast.present();
+  }
+
 
 }
