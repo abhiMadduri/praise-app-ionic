@@ -25,7 +25,7 @@
   </ion-list>-->
 
   <ion-list [virtualScroll] = "praises" [approxItemHeight]="'132px'" >
-      <ion-item *virtualItem = "let p" (click)="presentToast()"> 
+      <ion-item *virtualItem = "let p" (click)="presentToast($event)"> 
                 {{p.Praises}}
                 <p>{{p.Verses}}</p>
             </ion-item>

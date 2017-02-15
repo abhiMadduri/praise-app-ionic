@@ -65,11 +65,12 @@ export class SongDetailPage {
 
   constructor(
     public navCtrl: NavController,
+    public navParams: NavParams,
     public praiseApi: PraiseApi,
     public loadingController: LoadingController,
     public sanitizer : DomSanitizer) {
             //    var obj: MyObj = JSON.parse('{ "myString": "string", "myNumber": 4 }');
-
+            this.results.push(this.navParams.data);
             this.url = this.sanitizer.bypassSecurityTrustResourceUrl('https://youtube.com/embed/CDdvReNKKuk');
 
   }
@@ -77,10 +78,10 @@ export class SongDetailPage {
   ionViewDidLoad() {
     console.log('ionViewDidLoad SongDetailPage');
 
-        this.song = JSON.parse(this.jsontext);
+        //this.song = JSON.parse(this.jsontext);
         //this.song = this.jsontext.lyrics_en.split("\\n");
-        this.results.push(this.song);
-        console.log(this.results);
+        //this.results.push(this.song);
+        //console.log(this.results);
         
 
     // let loader = this.loadingController.create({
