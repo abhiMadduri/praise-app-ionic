@@ -1,7 +1,7 @@
 import { NgModule, ErrorHandler } from '@angular/core';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { MyApp } from './app.component';
-import { PraisePage, QuotePage, SongPage, SongDetailPage, HomePage } from '../pages/pages';
+import { PraisePage, QuotePage, SongDetailPage, HomePage } from '../pages/pages';
 import { PraiseEngPage, PraiseTelPage,  SongsListPage, PrettyPrint } from '../pages/pages';
 import { PraiseApi } from '../shared/shared';
 
@@ -11,7 +11,6 @@ import { PraiseApi } from '../shared/shared';
     HomePage,
     PraisePage,
     QuotePage,
-    SongPage,
     SongDetailPage,
     PraiseEngPage,
     PraiseTelPage,
@@ -27,7 +26,6 @@ import { PraiseApi } from '../shared/shared';
     HomePage,
     PraisePage,
     QuotePage,
-    SongPage,
     SongDetailPage,
     PraiseEngPage,
     PraiseTelPage,

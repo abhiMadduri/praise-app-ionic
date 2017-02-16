@@ -13,7 +13,7 @@
 </ion-header>
 
 
-<ion-content padding class = "embed-responsive-item">
+<ion-content padding>
   <!--<ion-list>
         <ion-list-header class="my-teams-header">English Christian Song</ion-list-header>
          <ion-item *ngFor="let s of results">
@@ -29,9 +29,10 @@
         {{s}}
       </div>
     </div>-->
-
-    <div *ngFor="let s of results">
-      {{s.lyrics_en | prettyPrint}}
+    
+    <div id="mydiv" *ngFor="let s of results">
+      <h2> {{s.title}} </h2>
+      {{s.lyrics_en}}
     </div>
 
     <!--<iframe height="190" onload="this.width=screen.width" [src]="url" frameborder="0" ></iframe>-->
@@ -39,7 +40,7 @@
 </ion-content>
 
 <!--<ion-tabs>
-    <ion-tab tabTitle="English" [root]="teamDetailTab" [rootParams]="team" tabIcon="basketball"></ion-tab>
-    <ion-tab tabTitle="Telugu" [root]="standingsTab" [rootParams]="team" tabIcon="podium"></ion-tab>
-    <ion-tab tabTitle="Video" [root]="standingsTab" [rootParams]="team" tabIcon="logo-youtube"></ion-tab>
+    <ion-tab tabTitle="English" [root]="songEnglishTab" [rootParams]="team" tabIcon="basketball"></ion-tab>
+    <ion-tab tabTitle="Telugu" [root]="songTeluguTab" [rootParams]="team" tabIcon="podium"></ion-tab>
+    <ion-tab tabTitle="Video" [root]="songVideoTab" [rootParams]="team" tabIcon="logo-youtube"></ion-tab>
 </ion-tabs>-->

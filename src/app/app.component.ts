@@ -2,7 +2,7 @@ import { Component, ViewChild } from '@angular/core';
 import { Nav, Platform } from 'ionic-angular';
 import { StatusBar, Splashscreen } from 'ionic-native';
 
-import { PraisePage, QuotePage, SongPage, HomePage } from '../pages/pages';
+import { PraisePage, QuotePage, HomePage } from '../pages/pages';
 
 
 @Component({
@@ -22,8 +22,7 @@ export class MyApp {
     this.pages = [
       { title: 'Home', component: HomePage },
       { title: '1000 Praises', component: PraisePage },
-      { title: 'Quotes', component: QuotePage }, 
-      { title: 'Songs', component : SongPage}
+      { title: 'Quotes', component: QuotePage }
     ];
 
   }
