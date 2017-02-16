@@ -2,7 +2,7 @@ import { NgModule, ErrorHandler } from '@angular/core';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { MyApp } from './app.component';
 import { PraisePage, QuotePage, SongDetailPage, HomePage } from '../pages/pages';
-import { PraiseEngPage, PraiseTelPage,  SongsListPage, PrettyPrint } from '../pages/pages';
+import { PraiseEngPage, PraiseTelPage,  SongsListPage, PrettyPrint, SongEngPage, SongTelPage } from '../pages/pages';
 import { PraiseApi } from '../shared/shared';
 
 @NgModule({
@@ -15,7 +15,9 @@ import { PraiseApi } from '../shared/shared';
     PraiseEngPage,
     PraiseTelPage,
     SongsListPage,
-    PrettyPrint
+    PrettyPrint,
+    SongEngPage,
+    SongTelPage
   ],
   imports: [
     IonicModule.forRoot(MyApp)
@@ -29,7 +31,9 @@ import { PraiseApi } from '../shared/shared';
     SongDetailPage,
     PraiseEngPage,
     PraiseTelPage,
-    SongsListPage
+    SongsListPage,
+    SongEngPage,
+    SongTelPage
   ],
   providers: [
     PraiseApi,

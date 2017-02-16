@@ -31,6 +31,7 @@ export class SongsListPage {
       this.getEnglishSongs();
     } else if (this.songsType === 1) {
       this.title = "Telugu Christian Songs";
+      this.getTeluguSongs();
     } else {
       this.title = "Sunday School Christian Songs";
     }
@@ -43,8 +44,24 @@ export class SongsListPage {
     });
 
     loader.present().then(() => {
-      this.praiseApi.getAllSongs().then(data => {
+      this.praiseApi.getAllEnglishSongs().then(data => {
         this.songs = data;
+        loader.dismiss();
+      });
+    }); 
+    
+  }
+
+  getTeluguSongs() {
+
+    let loader = this.loadingController.create({
+      content: 'Getting Telugu Songs..'
+    });
+
+    loader.present().then(() => {
+      this.praiseApi.getAllTeluguSongs().then(data => {
+        this.songs = data;
+        console.log(this.songs);
         loader.dismiss();
       });
     }); 

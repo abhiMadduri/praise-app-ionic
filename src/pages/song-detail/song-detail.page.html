@@ -30,17 +30,17 @@
       </div>
     </div>-->
     
-    <div id="mydiv" *ngFor="let s of results">
+    <!--<div id="mydiv" *ngFor="let s of results">
       <h2> {{s.title}} </h2>
       {{s.lyrics_en}}
-    </div>
+    </div>-->
 
     <!--<iframe height="190" onload="this.width=screen.width" [src]="url" frameborder="0" ></iframe>-->
   
 </ion-content>
 
-<!--<ion-tabs>
-    <ion-tab tabTitle="English" [root]="songEnglishTab" [rootParams]="team" tabIcon="basketball"></ion-tab>
-    <ion-tab tabTitle="Telugu" [root]="songTeluguTab" [rootParams]="team" tabIcon="podium"></ion-tab>
-    <ion-tab tabTitle="Video" [root]="songVideoTab" [rootParams]="team" tabIcon="logo-youtube"></ion-tab>
-</ion-tabs>-->
+<ion-tabs>
+    <ion-tab tabTitle="Telugu" [root]="songTeluguTab" [rootParams]="song" tabIcon="podium"></ion-tab>
+    <ion-tab tabTitle="English" [root]="songEnglishTab" [rootParams]="song" tabIcon="basketball"></ion-tab>
+
+</ion-tabs>

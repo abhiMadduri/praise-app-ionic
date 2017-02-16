@@ -30,9 +30,16 @@ export class PraiseApi {
         })
     }
 
-    getAllSongs() {
+    getAllEnglishSongs() {
         return new Promise(resolve => {
             this.http.get('../assets/songs/songs_english.json')
+            .subscribe(res => resolve(res.json()));
+        })
+    }
+
+    getAllTeluguSongs() {
+        return new Promise(resolve => {
+            this.http.get('../assets/songs/songs_telugu.json')
             .subscribe(res => resolve(res.json()));
         })
     }

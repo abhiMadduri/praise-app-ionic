@@ -1,5 +1,4 @@
-{
-    "songs": [
+[
         {
             "id": 0,
             "title": "Adavi Chetla Naduma",
@@ -80,5 +79,4 @@
             "viewCount": 12,
             "favoriteCount": 15
         }
-    ]
-}
+]

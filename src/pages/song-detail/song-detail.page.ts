@@ -3,7 +3,7 @@ import { NavController, NavParams } from 'ionic-angular';
 import { PraiseApi } from '../../shared/shared';
 import { SafeResourceUrl, DomSanitizer } from '@angular/platform-browser';
 import { Pipe, Injectable } from '@angular/core'
-//import { PrettyPrint } from '../pages';
+import { SongEngPage, SongTelPage } from '../pages';
 
 /*
   Generated class for the SongDetail page.
@@ -17,9 +17,11 @@ import { Pipe, Injectable } from '@angular/core'
 })
 export class SongDetailPage {
 
-    url: SafeResourceUrl;
-    results = [];
+    //url: SafeResourceUrl;
+    //results = [];
     song: any;
+    songEnglishTab = SongEngPage;
+    songTeluguTab = SongTelPage;
     
     //jsontext = {"lyrics_en": "Amazing grace! How sweet the sound \n That saved a wretch like me!"};
 
@@ -28,8 +30,9 @@ export class SongDetailPage {
         public navCtrl: NavController,
         public navParams: NavParams,
         public sanitizer: DomSanitizer) {
-        this.results.push(this.navParams.data);
-        this.url = this.sanitizer.bypassSecurityTrustResourceUrl('https://youtube.com/embed/CDdvReNKKuk');
+            this.song = this.navParams.data;
+        // this.results.push(this.navParams.data);
+        // this.url = this.sanitizer.bypassSecurityTrustResourceUrl('https://youtube.com/embed/CDdvReNKKuk');
 
     }
 

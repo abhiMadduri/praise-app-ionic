@@ -1,0 +1,23 @@
+<!--
+  Generated template for the SongTel page.
+
+  See http://ionicframework.com/docs/v2/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>song-tel</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <div id="mydiv" *ngFor="let s of results">
+      <h2> {{s.title}} </h2>
+      {{s.lyrics_tel}}
+    </div>
+
+    <!--<iframe height="190" onload="this.width=screen.width" [src]="url" frameborder="0" ></iframe>-->
+</ion-content>
