@@ -1,80 +1,38 @@
 [
-        {
-            "id": 0,
-            "title": "Amazing Grace",
-            "author": "",
-            "album": "",
-            "category": "English Christian Songs",
-            "language": "eng",
-            "lyrics_en": "Amazing grace! How sweet the sound \n That saved a wretch like me! ",
-            "hidden": false,
-            "song_number_in_books": [
-                {
-                    "book_name": "Andhra Christian Song book",
-                    "song_number": 156
-                },
-                {
-                    "book_name": "Hebron Song book",
-                    "song_number": 120
-                }
-            ],
-            "tags": [
-                "Amazing",
-                "grace",
-                "english",
-                "English Christian Songs"
-            ],
-            "thumbnail": {
-                "sqDefault": "http://uecf.net/images/souvenir.jpg",
-                "hqDefault": "http://uecf.net/images/souvenir.jpg"
-            },
-            "video_links": [
-                "http://youtube.com/testtest"
-            ],
-            "added_at": "2012-04-08T21:37:06.000Z",
-            "updated": "2012-04-08T21:37:06.000Z",
-            "added_by": "system",
-            "likeCount": 5,
-            "viewCount": 12,
-            "favoriteCount": 15
-        },
-		{
-            "id": 1,
-            "title": "No Turning Back",
-            "author": "",
-            "album": "",
-            "category": "English Christian Songs",
-            "language": "eng",
-            "lyrics_en": "I have decided to follow Jesus \n I have decided to follow Jesus ",
-            "hidden": false,
-            "song_number_in_books": [
-                {
-                    "book_name": "Andhra Christian Song book",
-                    "song_number": 156
-                },
-                {
-                    "book_name": "Hebron Song book",
-                    "song_number": 120
-                }
-            ],
-            "tags": [
-                "decided",
-                "turning",
-                "english",
-                "English Christian Songs"
-            ],
-            "thumbnail": {
-                "sqDefault": "http://uecf.net/images/souvenir.jpg",
-                "hqDefault": "http://uecf.net/images/souvenir.jpg"
-            },
-            "video_links": [
-                "http://youtube.com/testtest"
-            ],
-            "added_at": "2012-04-08T21:37:06.000Z",
-            "updated": "2012-04-08T21:37:06.000Z",
-            "added_by": "system",
-            "likeCount": 5,
-            "viewCount": 12,
-            "favoriteCount": 15
-        }
+  {
+    "id": 0,
+    "title": "Amazing Grace",
+    "lyrics_en": "Amazing grace! How sweet the sound \n That saved a wretch like me! \n I once was lost, but now am found \n Was blind, but now I see.\n\n \u2019Twas grace that taught my heart to fear,\nAnd grace my fears relieved; \nHow precious did that grace appear \nThe hour I first believed. \n\n Through many dangers, toils and snares, \nI have already come;\n\u2019Tis grace hath brought me safe thus far,\nAnd grace will lead me home. \n\n The Lord has promised good to me,\n His Word my hope secures;\nHe will my Shield and Portion be,\nAs long as life endures.\n\n The earth shall soon dissolve like snow,\nThe sun forbear to shine;\nBut God, Who called me here below, \nShall be forever mine. \n\n When we\u2019ve been there ten thousand years,\n Bright shining as the sun,\n We\u2019ve no less days to sing God\u2019s praise\nThan when we\u2019d first begun.\n",
+    "video_links": "http:\/\/youtube.com\/testtest"
+  },
+  {
+    "id": 1,
+    "title": "All To Jesus",
+    "lyrics_en": "All to Jesus, I surrender;\nAll to Him I freely give;\nI will ever love and trust Him,\nIn His presence daily live.\n\nI surrender all, I surrender all,\nAll to Thee, my bless\u00e8d Savior,\nI surrender all.\n\nAll to Jesus I surrender;\nHumbly at His feet I bow,\nWorldly pleasures all forsaken;\nTake me, Jesus, take me now    || I surrender all ||\n\nAll to Jesus, I surrender;\nMake me, Savior, wholly Thine;\nLet me feel the Holy Spirit,\nTruly know that Thou art mine.     || I surrender all ||\n\nAll to Jesus, I surrender;\nLord, I give myself to Thee;\nFill me with Thy love and power;\nLet Thy blessing fall on me.     || I surrender all ||\n",
+    "video_links": "http:\/\/youtube.com\/testtest"
+  },
+  {
+    "id": 2,
+    "title": "Bless The Lord",
+    "lyrics_en": "Bless the Lord, O my soul O my soul\nWorship His holy name\nSing like never before O my soul\nI\u2019ll worship Your holy name\n\nThe sun comes up, it\u2019s a new day dawning\nIt\u2019s time to sing Your song again\nWhatever may pass, and whatever lies before me\nLet me be singing when the evening comes      || Bless the Lord ||\n\nYou\u2019re rich in love, and You\u2019re slow to anger\nYour name is great, and Your heart is kind\nFor all Your goodness I will keep on singing\nTen thousand reasons for my heart to find        || Bless the Lord ||\n\nAnd on that day when my strength is failing\nThe end draws near and my time has come\nStill my soul will sing Your praise unending\nTen thousand years and then forevermore    || Bless the Lord ||\n",
+    "video_links": "http:\/\/youtube.com\/testtest"
+  },
+  {
+    "id": 3,
+    "title": "Blessed Assurance",
+    "lyrics_en": "Blessed assurance, Jesus is mine!\nOh, what a foretaste of glory divine!\nHeir of salvation, purchase of God,\nBorn of His Spirit, washed in His blood.\n\nThis is my story, this is my song, \nPraising my Savior all the day long; \nThis is my story, this is my song, \nPraising my Savior all the day long.\n\nPerfect submission, perfect delight,\nVisions of rapture now burst on my sight;\nAngels descending bring from above,\nEchoes of mercy, whispers of love.        || This is my story ||\n\nPerfect submission, all is at rest,\nI in my Savior am happy and blest;\nWatching and waiting, looking above,\nFilled with His goodness lost in His love.      || This is my story ||\n",
+    "video_links": "http:\/\/youtube.com\/testtest"
+  },
+  {
+    "id": 4,
+    "title": "Count Your Blessings",
+    "lyrics_en": "When upon life\u2019s billows you are tempest tossed,\nWhen you are discouraged, thinking all is lost,\nCount your many blessings, name them one by one,\nAnd it will surprise you what the Lord hath done.\n\nCount your blessings, name them one by one,\nCount your blessings, see what God hath done!\nCount your blessings, name them one by one,\nAnd it will surprise you what the Lord hath done.\n\nAre you ever burdened with a load of care?\nDoes the cross seem heavy you are called to bear?\nCount your many blessings, every doubt will fly,\nAnd you will keep singing as the days go by. || Count ||\n\nWhen you look at others with their lands and gold,\nThink that Christ has promised you His wealth untold;\nCount your many blessings. Wealth can never buy\nYour reward in heaven, nor your home on high. || Count ||\n\nSo, amid the conflict whether great or small,\nDo not be disheartened, God is over all;\nCount your many blessings, angels will attend,\nHelp and comfort give you to your journey\u2019s end. || Count ||\n",
+    "video_links": "http:\/\/youtube.com\/testtest"
+  },
+  {
+    "id": 5,
+    "title": "Here I am to worship",
+    "lyrics_en": "Light of the world,\nYou stepped down into darkness\nOpened my eyes, let me see\nBeauty that made,\nfor This heart adore you\nHope of a life spent with you\n\nHere I am to worship, \nHere I am to bow down\nHere I am to say that you\u2019re my God\nYou\u2019re altogether lovely, \nAltogether worthy\nAltogether wonderful to me\n\nKing of all days Oh so highly exalted\nGlorious in Heaven above\nHumbly you came\nTo the earth you created\nAll for love\u2019s sake became poor      || Here I am ||\n\nAnd I\u2019ll never know How much it cost\nTo see my sin up on that cross (2)      || Here I am ||\n",
+    "video_links": ""
+  }
 ]

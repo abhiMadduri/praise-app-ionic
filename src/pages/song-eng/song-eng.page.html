@@ -14,10 +14,15 @@
 
 
 <ion-content padding>
-  <div id="mydiv" *ngFor="let s of results">
+  <div *ngFor="let s of results">
       <h2> {{s.title}} </h2>
+    </div>
+  <div id="mydiv" *ngFor="let s of results">
       {{s.lyrics_en}}
     </div>
 
+   <br><br>
+
+  <div><h2> Video </h2></div> <br>
     <!--<iframe height="190" onload="this.width=screen.width" [src]="url" frameborder="0" ></iframe>-->
 </ion-content>

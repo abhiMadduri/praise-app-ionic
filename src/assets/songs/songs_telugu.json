@@ -1,82 +1,114 @@
-[
-        {
-            "id": 0,
-            "title": "Adavi Chetla Naduma",
-            "author": "",
-            "album": "",
-            "category": "Andhra Christian Songs",
-            "language": "tel",
-            "lyrics_en": "Adavi Chetla Naduma Oka Jaldaru Vruksham Vale \n Parishuddula Samaajamulo \n Yesu Prajvalinchuchunnaadu (2) \nKeerthinthunNaaPrabhuni\nJeevaKaalamellaPrabhuYesuni\nKruthagnathathoSthuthinchedanu(2)",
-            "lyrics_tel": "అడవి చెట్ల నడుమ ఒక జల్దరు వృక్షం వలె \n పరిశుద్ధుల సమాజములో యేసు ప్రజ్వలించుచున్నాడు (2) \n కీర్తింతున్ నా ప్రభుని \n జీవ కాలమెల్ల ప్రభు యేసుని కృతజ్ఞతతో స్తుతించెదను (2)",
-            "hidden": false,
-            "song_number_in_books": [
-                {
-                    "book_name": "Andhra Christian Song book",
-                    "song_number": 156
-                },
-                {
-                    "book_name": "Hebron Song book",
-                    "song_number": 120
-                }
-            ],
-            "tags": [
-                "Adavi",
-                "Naduma",
-                "telugu",
-                "Andhra Christian Songs"
-            ],
-            "thumbnail": {
-                "sqDefault": "http://uecf.net/images/souvenir.jpg",
-                "hqDefault": "http://uecf.net/images/souvenir.jpg"
-            },
-            "video_links": [
-                "http://youtube.com/testtest"
-            ],
-            "added_at": "2012-04-08T21:37:06.000Z",
-            "updated": "2012-04-08T21:37:06.000Z",
-            "added_by": "system",
-            "likeCount": 5,
-            "viewCount": 12,
-            "favoriteCount": 15
-        },
-        {
-            "id": 1,
-            "title": "Athyunnatha Simhaasanamupai",
-            "author": "",
-            "album": "",
-            "category": "Andhra Christian Songs",
-            "language": "tel",
-            "lyrics_en": "Athyunnatha Simhaasanamupai – Aaseenudavaina Devaa \n Athyantha Premaa Swaroopivi Neeve \n Aaraadhinthunu Ninne",
-            "lyrics_tel": "అత్యున్నత సింహాసనముపై – ఆసీనుడవైన దేవా \n అత్యంత ప్రేమా స్వరూపివి నీవే \n ఆరాధింతును నిన్నే \n ఆహాహా.. హల్లెలూయా – ఆహాహా.. హల్లెలూయా (3)",
-            "hidden": false,
-            "song_number_in_books": [
-                {
-                    "book_name": "Andhra Christian Song book",
-                    "song_number": 156
-                },
-                {
-                    "book_name": "Hebron Song book",
-                    "song_number": 120
-                }
-            ],
-            "tags": [
-                "Adavi",
-                "Naduma",
-                "telugu",
-                "Andhra Christian Songs"
-            ],
-            "thumbnail": {
-                "sqDefault": "http://uecf.net/images/souvenir.jpg",
-                "hqDefault": "http://uecf.net/images/souvenir.jpg"
-            },
-            "video_links": [
-                "http://youtube.com/testtest"
-            ],
-            "added_at": "2012-04-08T21:37:06.000Z",
-            "updated": "2012-04-08T21:37:06.000Z",
-            "added_by": "system",
-            "likeCount": 5,
-            "viewCount": 12,
-            "favoriteCount": 15
-        }
+﻿[
+  {
+    "id": 0,
+    "title": "Athyunatha simhasanamupai",
+    "lyrics_en": "﻿Athyunnatha Simhaasanamupai Aaseenudaa\nDeva Doothalu Aaraadhinchu Parishudhdhudaa\nYesayyaa Naa Niluvella Nindiyunnaavu\nNaa Manasaara Nee Sannidhilo\nSaagilapadi Namaskaaramu Chesedaa\nSaagilapadi Namaskaaramu Chesedaa (2)\n\nPrathi Vasanthamu Nee Dayaa Kireetame\nPrakruthi Kalalanniyu Nee Mahimanu Vivarinchune (2)\nPrabhuvaa Ninne Aaraadhincheda\nKruthagnathaarpanalatho – Kruthagnathaarpanalatho (2)         ||Athyunnatha||\n\nParimalinchune Naa Saakshya Jeevithame\nParishudhdhaathmudu Nannu Nadipinchuchunnandune (2)\nParishudhdhaathmalo Aanandincheda\nHarsha Dhvanulatho – Harsha Dhvanulatho (2)          ||Athyunnatha||\n\nPakshi Raajuvai Nee Rekkalapai Mosithive\nNeeve Naa Thandrive Naa Bhaadhyathalu Bharinchithive (2)\nYehova Ninne Mahima Paracheda\nSthuthi Geethaalatho –  Sthuthi Geethaalatho (2)        ||Athyunnatha||\n",
+    "lyrics_tel": "﻿అత్యున్నత సింహాసనముపై ఆసీనుడా\nదేవ దూతలు ఆరాధించు పరిశుద్ధుడా\nయేసయ్యా నా నిలువెల్ల నిండియున్నావు\nనా మనసార నీ సన్నిధిలో\nసాగిలపడి నమస్కారము చేసేదా\nసాగిలపడి నమస్కారము చేసేదా (2)\n\nప్రతి వసంతము నీ దయా కిరీటమే\nప్రకృతి కలలన్నియు నీ మహిమను వివరించునే (2)\nప్రభువా నిన్నే ఆరాధించెద\nకృతజ్ఞాతార్పణలతో – కృతజ్ఞాతార్పణలతో (2)         ||అత్యున్నత||\n\nపరిమలించునే నా సాక్ష్య జీవితమే\nపరిశుద్ధాత్ముడు నన్ను నడిపించుచున్నందునే (2)\nపరిశుద్ధాత్మలో ఆనందించెద\nహర్ష ధ్వనులతో – హర్ష ధ్వనులతో (2)           ||అత్యున్నత||\n\nపక్షి రాజువై నీ రెక్కలపై మోసితివే\nనీవే నా తండ్రివే నా బాధ్యతలు భరించితివే (2)\nయెహోవ నిన్నే మహిమ పరచెద\nస్తుతి గీతాలతో – స్తుతి గీతాలతో (2)      ||అత్యున్నత||\n",
+    "video_links": ""
+  },
+  {
+    "id": 1,
+    "title": "Anni Naamamula Kanna",
+    "lyrics_en": "Anni Naamamula Kanna Pai Naamau – Yesuni Naamamu\nEnni Tharamulakainaa Ghanaparacha Daginadi – Kreesthesu Naamamu (2)\nYesu Naamamu Jayam Jayamu\nSaathaanu Shakthul Layam Layamu (2)\nHallelooya Hosanna Hallelooyaa – Hallelooyaa Aamen (2)\n\nPaapamula Nundi Vidipinchunu – Yesuni Naamamu (2)\nNithya Narakaagnilo Nundi Rakshinchunu – Kreesthesu Naamamu (2)   ||Yesu Naamamu||\n\nSaathaanupai Adhikaaramichchunu\nShakthigala Yesu Naamamu (2)\nShathru Samoohamupai Jayamu Nichchunu\nJayasheeludaina Yesu Naamamu (2)      ||Yesu Naamamu||\n\nSthuthi Ghana Mahimalu Chellinchuchu\nKroththa Keerthana Paadedamu (2)\nJaya Dhvajamunu Paikeththi Kekalatho\nSthothra Gaanamu Cheyudamu (2)         ||Yesu Naamamu||\n",
+    "lyrics_tel": "﻿అన్ని నామముల కన్న పై నామము – యేసుని నామము\nఎన్ని తరములకైనా ఘనపరచ దగినది – క్రీస్తేసు నామము (2)\nయేసు నామము జయం జయము\nసాతాను శక్తుల్ లయం లయము (2)\nహల్లెలూయ హొసన్న హల్లెలూయా – హల్లెలూయా ఆమెన్ (2)\n\nపాపముల నుండి విడిపించును – యేసుని నామము (2)\nనిత్య నరకాగ్నిలో నుండి రక్షించును – క్రీస్తేసు నామము (2)       ||యేసు నామము ||\n\nసాతాను పై అధికార మిచ్చును\nశక్తి గల యేసు నామము (2)\nశత్రు సమూహము పై జయమునిచ్చును\nజయశీలుడైన యేసు నామము (2)        ||యేసు నామము ||\n\nస్తుతి ఘన మహిమలు చెల్లించుచు\nక్రొత్త కీర్తన పాడెదము (2)\nజయ ధ్వజమును పైకెత్తి కేకలతో\nస్తోత్ర గానము చేయుదము (2)            ||యేసు నామము ||\n",
+    "video_links": ""
+  },
+  {
+    "id": 2,
+    "title": "Aparaadhini Yesayyaa",
+    "lyrics_en": "﻿Aparaadhini Yesayyaa\nKrupa Joopi Brovumayyaa (2)\nNepamenchakaye Nee Krupalo\nNaparaadhamulanu Kshaminchu (2)\n\nSiluvaku Ninu Ne Gotti\nThuluvalatho Jerithini (2)\nKalushambulanu Mopithini\nDoshnda Nenu Prabhuvaa (2)\n\nPrakkalo Ballepu Potu\nGrakkuna Podichithi Nene (2)\nMikkili Baadhinchithini\nMakkuva Joopithivayyo (2)\n\nGhormabugaa Doorithini\nNerambulanu Jesithini (2)\nKroorundanai Gottithini\nGhorampu Paapini Devaa (2)\n\nChindithi Rakthamu Naakai\nPondina Debbala Chetha (2)\nApanindalu Mopithinayyo\nSandehamelanayyaa (2)\n",
+    "lyrics_tel": "﻿అపరాధిని యేసయ్యా\nకృపజూపి బ్రోవుమయ్యా (2)\nనెపమెంచకయె నీ కృపలో\nనపరాధములను క్షమించు (2)\n\nసిలువకు నిను నే గొట్టి\nతులువలతో జేరితిని (2)\nకలుషంబులను మోపితిని\nదోషుండ నేను ప్రభువా (2)\n\nప్రక్కలో బల్లెపుపోటు\nగ్రక్కున పొడిచితి నేనే (2)\nమిక్కిలి బాధించితిని\nమక్కువ జూపితి వయ్యో (2)\n\nఘోరంబుగా దూరితిని\nనేరంబులను జేసితిని (2)\nకౄరుండనై గొట్టితిని\nఘోరంపు పాపిని దేవా (2)\n\nచిందితి రక్తము నాకై\nపొందిన దెబ్బల చేత (2)\nఅపనిందలు మోపితినయ్యో\nసందేహమేలనయ్యా (2)\n",
+    "video_links": ""
+  },
+  {
+    "id": 3,
+    "title": "Andaala Thaara",
+    "lyrics_en": "﻿Andaala Thaara Arudenche Naakai Ambara Veedhilo\nAvathaaramurthy Yesayya Keerthi Avani Chaatuchun\nAanandasandra Mupponge Naalo Amarakaanthilo\nAadi Devuni Jooda – Aashimpa Manasu\nPayanamaithini                                     ||Andaala Thaara||\n\nVishwaasa Yaathra Dooramenthaina Vindugaa Dochenu\nVinthaina Shaanthi Varshinche Naalo Vijayapathamuna\nVishwaala Neledi Deva Kumaaruni Veekshinche Deekshalo\nVirajimme Balamu – Pravahinche Prema\nVishraanthi Nosaguchun                         ||Andaala Thaara||\n\nYerushalemu Raajanagarilo Yesunu Vedakuchu\nErigina Daari Tholagina Vela Edalo Krungithi\nYesayya Thaara Eppativole Eduraaye Throvalo\nEntho Yabburapaduchu – Vismayamonduchu\nAegithi Swaami Kadaku                          ||Andaala Thaara||\n\nPrabhu Janmasthalmu Paakaye Gaani Paraloka Soudhame\nBaaluni Jooda Jeevithamentha Paavanamaayenu\nPrabhu Paada Pooja Deevena Kaagaa Prasarinche Punyamu\nBrathuke Mandiramaaye – Arpanale Sirulaaye\nPhaliyinche Praarthana                           ||Andaala Thaara||\n",
+    "lyrics_tel": "﻿అందాలతార అరుదెంచె నాకై అంబర వీధిలో\nఅవతారమూర్తి యేసయ్య కీర్తి అవని చాటుచున్\nఆనందసంద్ర ముప్పొంగె నాలో అమరకాంతిలో\nఆది దేవుని జూడ ఆశింప మనసు పయనమైతిని               ||అందాల తార||\n\nవిశ్వాసయాత్ర దూరమెంతైన విందుగా దోచెను\nవింతైన శాంతి వర్షించె నాలో విజయపథమున\nవిశ్వాలనేలెడి దేవకుమారుని వీక్షించు దీక్షలో\nవిరజిమ్మె బలము ప్రవహించె ప్రేమ విశ్రాంతి నొసగుచున్         ||అందాల తార||\n\nయెరూషలేము రాజనగరిలో యేసును వెదకుచు\nఎరిగిన దారి తొలగిన వేళ ఎదలో కృంగితి\nయేసయ్యతార ఎప్పటివోలె ఎదురాయె త్రోవలో\nఎంతో యబ్బురపడుచు విస్మయ మొందుచు ఏగితి స్వామి కడకు      ||అందాల తార||\n\nప్రభుజన్మస్ధలము పాకయేగాని పరలోక సౌధమే\nబాలునిజూడ జీవితమెంత పావనమాయెను\nప్రభుపాదపూజ దీవెనకాగా ప్రసరించె పుణ్యము\nబ్రతుకే మందిరమాయె అర్పణలే సిరులాయె ఫలియించె ప్రార్ధన           ||అందాల తార||\n",
+    "video_links": ""
+  },
+  {
+    "id": 4,
+    "title": "Aayane Naa Sangeethamu",
+    "lyrics_en": "﻿Aayane Naa Sangeethamu Balamaina Kotayunu\nJeevaadhipathiyu Aayane\nJeevitha Kaalamella Sthuthinchedamu     ||Aayane||\n\nSthuthula Madhyalo Nivaasam Chesi\nDoothalella Pogade Devudaayane (2)\nVeduchundu Bhakthula Swaramu Vini\nDikku Leni Pillalaku Devudaayane (2)    ||Aayane||\n\nIddaru mugguru Naa Naamamuna\nAekeebhavinchina Vaari Madhyalona (2)\nUndedananina Mana Devuni\nKaramulu Thatti Nithyam Sthuthinchedamu (2)   ||Aayane||\n\nSrushtikartha Kreesthu Yesu Naamamunaa\nJeevitha Kaalamella Keerthinchedamu (2)\nRaakadalo Prabhutho Nithyamundumu\nMrokkedamu Sthuthinchedam Pogadedamu (2)   ||Aayane||\n",
+    "lyrics_tel": "﻿ఆయనే నా సంగీతము బలమైన కోటయును\nజీవాధిపతియు ఆయనే\nజీవిత కాలమెల్ల స్తుతించెదము         ||ఆయనే||\n\nస్తుతుల మధ్యలో నివాసం చేసి\nదూతలెల్ల పొగడే దేవుడాయనే (2)\nవేడుచుండు భక్తుల స్వరము విని\nదిక్కు లేని పిల్లలకు దేవుడాయనే (2)          ||ఆయనే||\n\nఇద్దరు ముగ్గురు నా నామమున\nఏకీభవించిన వారి మధ్యలోన (2)\nఉండెదననిన మన దేవుని\nకరములు తట్టి నిత్యం స్తుతించెదము (2)       ||ఆయనే||\n\nసృష్టికర్త క్రీస్తు యేసు నామమున\nజీవిత కాలమెల్ల కీర్తించెదము (2)\nరాకడలో ప్రభుతో నిత్యముందుము\nమ్రొక్కెదము స్తుతించెదం పొగడెదము (2)       ||ఆయనే||\n",
+    "video_links": ""
+  },
+  {
+    "id": 5,
+    "title": "Aalayamlo Praveshinchandi",
+    "lyrics_en": "﻿Aalayamlo Praveshinchandi Andaru\nSwaagatham Suswaagatham Yesu Naamamlo\nMee Brathukulo Paapamaa Kalathalaa\nMee Hrudayamlo Baadhalaa Kanneeraa\nMee Kanneeranthaa Thudichi Veyu Raaju Yesu Kosam       ||Aalayamlo||\n\nDeeksha Swabhaavamtho Dhyaana Swabhaavamai\nVedike Vaarikanthaa Kanabadu Deepamu\nYesu Raaju Maatale Vinuta Dhanyamu\nVinuta Valana Vishwaasam Adhikamadhikamai\nAathmalo Daahamu Theerenu Raarandi\nAanandamaanandam Hallelooyaa          ||Aalayamlo||\n\nPrabhu Yesu Maatale Pedavilo Maatalai\nJeeva Vrukshambugaa Phaliyinchaalani\nPedavitho Palikedam Manchi Maatale\nHrudayamanthaa Yesu Prabhuni Prema Maatalai\nNimpedam Nindedam Koredam Pondedam\nAanandamaanandam Hallelooyaa          ||Aalayamlo||\n",
+    "lyrics_tel": "﻿ఆలయంలో ప్రవేశించండి అందరు\nస్వాగతం సుస్వాగతం యేసు నామంలో\nమీ బ్రతుకులో పాపమా కలతలా\nమీ హృదయంలో బాధలా కన్నీరా\nమీ కన్నీరంతా తుడిచి వేయు రాజు యేసు కోసం        ||ఆలయంలో||\n\nదీక్ష స్వభావంతో ధ్యాన స్వభావమై\nవెదికే వారికంతా కనబడు దీపము\nయేసు రాజు మాటలే వినుట ధన్యము\nవినుట వలన విశ్వాసం అధికమధికమై\nఆత్మలో దాహము తీరెను రారండి\nఆనందమానందం హల్లెలూయా       ||ఆలయంలో||\n\nప్రభు యేసు మాటలే పెదవిలో మాటలై\nజీవ వృక్షంబుగా ఫలియించాలని\nపెదవితో పలికెదం మంచి మాటలే\nహృదయమంతా యేసు ప్రభుని ప్రేమ మాటలై\nనింపెదం నిండెదం కోరెదం పొందెదం\nఆనందమానందం హల్లెలూయా          ||ఆలయంలో||\n",
+    "video_links": ""
+  },
+  {
+    "id": 6,
+    "title": "Aascharyamaina Prema",
+    "lyrics_en": "﻿Aascharyamaina Prema – Kalvariloni Prema\nMaranamu Kante Balamaina Premadi\nNannu Jayinche Nee Prema  (2) || Aascharyamaina ||\n\nParamunu Veedina Prema\nDharalo Paapini Vedakina Prema\nNannu Karuninchi Aadarinchi Sedadeerchi\nNithya Jeevamichche             || Aascharyamaina ||\n\nPaavana Yesuni Prema\nSiluvalo Paapini Mosina Prema\nNaakai Maraninchi Jeevamichchi Jayamichchi\nThana Mahimanichche          || Aascharyamaina ||\n\nShramalu Sahinchina Prema\nNaakai Shaapamu Norchina Prema\nVidanaadani Premadi Ennadoo\nEdabaayadu                          || Aascharyamaina ||\n\nNaa Sthithi Joochina Prema\nNaapai Jaalini Choopina Prema\nNaakai Parugethi Kougalinchi Muddhadi\nKanneetini Thudiche            || Aascharyamaina ||\n",
+    "lyrics_tel": "﻿ఆశ్చర్యమైన ప్రేమ – కల్వరిలోని ప్రేమ\nమరణము కంటె బలమైన ప్రేమది\nనన్ను జయించె నీ ప్రేమ (2)   ||ఆశ్చర్యమైన||\n\nపరమును వీడిన ప్రేమ – ధరలో పాపిని వెదకిన ప్రేమ\nనన్ను కరుణించి ఆదరించి సేదదీర్చి నిత్య జీవమిచ్చే      ||ఆశ్చర్యమైన||\n\nపావన యేసుని ప్రేమ – సిలువలో పాపిని మోసిన ప్రేమ\nనాకై మరణించి జీవమిచ్చి జయమిచ్చి తన మహిమ నిచ్చే      ||ఆశ్చర్యమైన||\n\nశ్రమలు సహించిన ప్రేమ – నాకై శాపము నోర్చిన ప్రేమ\nవిడనాడని ప్రేమది ఎన్నడూ యెడబాయదు        ||ఆశ్చర్యమైన||\n\nనా స్థితి జూచిన ప్రేమ – నాపై జాలిని జూపిన ప్రేమ\nనాకై పరుగెత్తి కౌగలించి ముద్దాడి కన్నీటిని తుడిచే    ||ఆశ్చర్యమైన||\n",
+    "video_links": ""
+  },
+  {
+    "id": 8,
+    "title": "Idigo Deva Naa Jeevitham",
+    "lyrics_en": "﻿Idigo Deva Naa Jeevitham\nAapaadamasthakam Neekankitham (2)\nSharanam Nee Charanam (4)     ||Idigo||\n\nPalumaarlu Vaidolaginaanu\nParaloka Darshanamunundi\nViluvaina Nee Divya Pilupuku\nNe Thaginatlu Jeevinchanaithi (2)\nAinaa Nee Prematho\nNannu Dari Cherchinaavu\nAnduke Gaikonumu Devaa\nEe Naa Shesha Jeevitham      ||Idigo||\n\nNee Paadamula Chentha Cheri\nNee Chiththambu Neneruga Nerpu\nNee Hrudaya Bhaarambu Nosagi\nPraarthinchi Panicheyanimmu (2)\nAagipoka Saagipovu\nPriyasuthuniga Panicheyanimmu\nPrathi Chotha Nee Saakshigaa\nPrabhuvaa Nannundanimmu     ||Idigo||\n",
+    "lyrics_tel": "﻿ఇదిగో దేవా నా జీవితం\nఆపాదమస్తకం నీకంకితం (2)\nశరణం నీ చరణం (4)                       ||ఇదిగో||\n\nపలుమార్లు వైదొలగినాను\nపరలోక దర్శనమునుండి\nవిలువైన నీ దివ్య పిలుపుకు\nనే తగినట్లు జీవించనైతి (2)\nఅయినా నీ ప్రేమతో నన్ను దరిచేర్చినావు\nఅందుకే గైకొనుము దేవా ఈ నా శేష జీవితం        ||ఇదిగో||\n\nనీ పాదముల చెంత చేరి\nనీ చిత్తంబు నేనెరుగ నేర్పు\nనీ హృదయ భారంబు నొసగి\nప్రార్థించి పనిచేయనిమ్ము (2)\nఆగిపోక సాగిపోవు\nప్రియసుతునిగా పనిచేయనిమ్ము\nప్రతి చోట నీ సాక్షిగా ప్రభువా నన్నుండనిమ్ము      ||ఇదిగో||\n",
+    "video_links": ""
+  },
+  {
+    "id": 7,
+    "title": "Aasheervaadambul Maa Meeda",
+    "lyrics_en": "﻿Aasheervaadambul Maa Meeda\nVarshimpajeyu Meesha\nAashatho Nammi Yunnaamu\nNee Sathya Vaagdaththamu\n\nImmaahi Meeda\nKrummarinchumu Devaa\nKrammara Prema Varshambun\nGrummarinchumu Devaa\n\nO Deva Pampimpavayyaa\nNee Deevena Dhaaralan\nMaa Daahamellanu Baapu\nMaadhuryamou Varshamun       || Immaahi ||\n\nMaa Meeda Kiriyinchu Meesha\nPrema Pravaahambulan\nSamastha Deshambu Meeda\nKshaamambu Ponatlugan         || Immaahi ||\n\nEenaade Varshimpu Meesha\nNee Nindu Deevenalan\nNee Naamamanduna Vedi\nSannuthi Brourdhinthumu        || Immaahi ||\n",
+    "lyrics_tel": "﻿ఆశీర్వాదంబుల్ మా మీద\nవర్షింపజేయు మీశ\nఆశతో నమ్మి యున్నాము\nనీ సత్య వాగ్దత్తము\n\nఇమ్మాహి మీద\nక్రుమ్మరించుము దేవా\nక్రమ్మర ప్రేమ వర్షంబున్\nగ్రుమ్మరించుము దేవా\n\nఓ దేవా పంపింపవయ్యా\nనీ దీవెన ధారలన్\nమా దాహమెల్లను బాపు\nమాధుర్యమౌ వర్షమున్      || ఇమ్మాహి ||\n\nమా మీద కురియించు మీశ\nప్రేమ ప్రవాహంబులన్\nసమస్త దేశంబు మీద\nక్షామంబు పోనట్లుగన్        || ఇమ్మాహి ||\n\nఈనాడే వర్షింపు మీశ\nనీ నిండు దీవెనలన్\nనీ నామమందున వేడి\nసన్నుతి బ్రౌర్ధింతుము     || ఇమ్మాహి ||\n",
+    "video_links": ""
+  },
+  {
+    "id": 9,
+    "title": "Unna Paatuna Vachchuchunnaanu",
+    "lyrics_en": "﻿Unnapaatuna Vachchu-chunnaanu Nee Paada – Sannidhiko Rakshakaa\nYenna Shakyamu Gaani Paapamu-lanni Mopuga Veepu Paibadi\nYunna Vide Nadaleka Thotrilu-chunnavaadanu nannu Dayaganu         ||Unna||\n\nKaarunya Nidhi Yesu – Naa Rakshakaa Nee Sha-reera Rakthamu Chinduta\nBhoori Dayatho Nannu Nee Dari – Jera Rammani Piluchutayu Ni\nShkaaranapu Nee Prema Yidi Mari – Vere Hethuvu Ledu Naa Yeda          ||Unna||\n\nMasi Boggu Vale Naa Maa-nasa Mella Gappe Do-sha Samoohamulu Machchalai\nAsitha Magu Prathi Daagu Thuduvanu – Gasutu Gadigi Pavithra Parapanu\nAsuvu Lidu Nee Rakthame Yani – Masala Kippudu Siluva Nide Gani           ||Unna||\n\nVelupata Bahu Yuddha-mulu Lopatanu Bhayamu – Kalige Nemmadi Dolagenu\nPalu Vidhamulagu Sandiyambula – Valana Poraatamulache Ne\nNalasi Yitunatu Gottabadi Du-rbhaludanai Gaayamulatho Nide            ||Unna||\n\nKadu Beeda Vaada Na-ndhudanu Dourbhaagyudanu – Chedipoyi Padiyunnaanu\nSudivadina Naa Madiki Swasthatha – Chedina Kanulaku Drushti Bhaagyamu\nBadaya Valasina Vanni Nee Che – Badayutaku Naa Yoda Yadaa Yide          ||Unna||\n\nNee Vaagdhatthamu Nammi Neepai Bhaaramu Petti – Jeeva Maargamu Gantini\nKevalambagu Prema Chethanu – Neevu Nannu Kshaminchi Chekoni\nBhaava Shuddhi Nonarchi Santho-shaavasaramula Nidudhuvani Yide          ||Unna||\n\nDarileni Yaananda-karamaina Nee Prema – Tharame Varnana Cheyanu\nTheravu Kadda Baina Yanniti – Viruga Gottenu Gaana Ne Nipu\nDarudugaa Nee Vaada Navutaku – Mari Nijamu Nee Vaada Navutake           ||Unna||\n",
+    "lyrics_tel": "﻿ఉన్నపాటున వచ్చు-చున్నాను నీ పాద సన్నిధి-కో రక్షకా\nఎన్న శక్యము గాని పాపము-లన్ని మోపుగ వీపు పైబడి\nయున్న విదె నడలేక తొట్రిలు-చున్నవాడను నన్ను దయగను          ||ఉన్న||\n\nకారుణ్య నిధి యేసు – నా రక్షకా నీ శ-రీర రక్తము చిందుట\nభూరి దయతో నన్ను నీ దరి – జేర రమ్మని పిలుచుటయు ని\nష్కారణపు నీ ప్రేమ యిది మరి – వేరే హేతువు లేదు నా యెడ            ||ఉన్న||\n\nమసి బొగ్గు వలె నా మా-నస మెల్ల గప్పె దో-ష సమూహములు మచ్చలై\nఅసిత మగు ప్రతి డాగు తుడువను – గసుటు గడిగి పవిత్ర పరపను\nఅసువు లిడు నీ రక్తమే యని – మాసల కిప్పుడు సిలువ నిదె గని           ||ఉన్న||\n\nవెలుపట బహు యుద్ధ-ములు లోపటను భయము – కలిగె నెమ్మది దొలాగెను\nపలు విధములగు సందియంబుల – వలన పోరాటములచే నే\nనలసి యిటునటు గొట్టబడి దు-ర్బలుడనై గాయములతో నిదె            ||ఉన్న||\n\nకడు బీద వాడ నం-ధుడను దౌర్భాగ్యుడను చెడిపోయి పడియున్నాను\nసుడివడిన నా మదికి స్వస్థత – చెడిన కనులకు దృష్టి భాగ్యము\nబడయ వలసిన వన్ని నీ చే – బడయుటకు నా యొడ యడా యిదె             ||ఉన్న||\n\nనీ వాగ్దత్తము నమ్మి – నీపై భారము పెట్టి – జీవ మార్గము గంటిని\nకేవలంబగు ప్రేమ చేతను – నీవు నన్ను క్షమించి చేకొని\nభావ శుద్ధి నొనర్చి సంతో-షావసరముల నిడుదువని యిదె         ||ఉన్న||\n\nదరిలేని యానంద-కరమైన నీ ప్రేమ – తరమే వర్ణన చేయను\nతెరవు కడ్డం బైన యన్నిటి – విరుగ గొట్టెను గాన నే నిపు\nడరుదుగా నీ వాడ నవుటకు – మరి నిజము నీ వాడ నవుటకే          ||ఉన్న||\n",
+    "video_links": ""
+  },
+  {
+    "id": 10,
+    "title": "Oohinchaleni Melulatho",
+    "lyrics_en": "﻿Oohinchaleni Melulatho Nimpina\nNaa Yesayyaa Neeke Naa Vandanam (2)\nVarninchagalanaa Nee Kaaryamul\nVivarinchagalanaa Nee Melulan (2)             ||Oohinchaleni||\n\nMelutho Naa Hrudayam Thrupthiparachinaavu\nRakshana Paathranichchi Ninu Sthuthiyinthunu (2)\nIsrayelu Devudaa Naa Rakshakaa\nSthuthiyinthunu Nee Naamamun (2)         ||Oohinchaleni||\n\nNaa Deenasthithini Neevu Maarchinaavu\nNaa Jeevithaaniki Viluvanichchinaavu (2)\nNee Krupaku Nannu Aahvaninchinaavu\nNee Sannidhi Naaku Thodunichchinaavu (2)         ||Oohinchaleni||\n",
+    "lyrics_tel": "﻿ఊహించలేని మేలులతో నింపిన\nనా యేసయ్యా నీకే నా వందనం (2)\nవర్ణించగలనా నీ కార్యముల్\nవివరించగలనా నీ మేలులన్ (2)       ||ఊహించలేని||\n\nమేలుతో నా హృదయం తృప్తిపరచినావు\nరక్షణ పాత్రనిచ్చి నిను స్తుతియింతును (2)\nఇశ్రాయేలు దేవుడా నా రక్షకా\nస్తుతియింతును నీ నామమున్ (2)     ||ఊహించలేని||\n\nనా దీనస్థితిని నీవు మార్చినావు\nనా జీవితానికి విలువనిచ్చినావు (2)\nనీ కృపకు నన్ను ఆహ్వానించినావు\nనీ సన్నిధి నాకు తోడునిచ్చినావు (2)   ||ఊహించలేని||\n",
+    "video_links": ""
+  },
+  {
+    "id": 11,
+    "title": "Enni Thalachinaa",
+    "lyrics_en": "﻿Enni Thalachinaa Edi Adiginaa\nJarigedi Nee Chiththame (2) Prabhuvaa\nNee Vaakkukai Vechiyuntini\nNaa Praarthana Aalakinchumaa (2) Prabhuvaa\n\nNee Thodu Leka Nee Prema Leka\nIlalona Ae Praani Niluvaledu (2)\nAdavi Poovule Nee Prema Pondagaa (2)\nNaa Praarthana Aalakinchumaa (2) Prabhuvaa     ||Enni||\n\nNaa Inti Deepam Neeve Ani Thelasi\nNaa Hrudayam Nee Korakai Padilaparachithi (2)\nAaripoyina Naa Velugu Deepamu (2)\nVeliginchumu Nee Prematho (2) Prabhuvaa      ||Enni||\n\nAapadalu Nannu Vennantiyunnaa\nNaa Kaapari Neevai Nannaadukontivi (2)\nLokamanthayoo Nannu Vidachinaa (2)\nNee Nundi Veru Cheyyavu (2) Prabhuvaa    ||Enni||\n\nNaa Sthithi Gamaninchi Nannoo Preminchi\nNaa Korakai Kalvarilo Yaagamaithivi (2)\nNeedu Yaagame Naa Moksha Maargamu (2)\nNeeyande Nithyajeevmu (2) Prabhuvaa     ||Enni||\n",
+    "lyrics_tel": "﻿ఎన్ని తలచినా ఏది అడిగినా\nజరిగేది నీ చిత్తమే (2) ప్రభువా\nనీ వాక్కుకై వేచియుంటిని\nనా ప్రార్థన ఆలకించుమా (2) ప్రభువా\n\nనీ తోడు లేక నీ ప్రేమ లేక\nఇలలోన ఏ ప్రాణి నిలువలేదు (2)\nఅడవి పూవులే నీ ప్రేమ పొందగా (2)\nనా ప్రార్థన ఆలకించుమా (2) ప్రభువా      ||ఎన్ని||\n\nనా ఇంటి దీపం నీవే అని తెలసి\nనా హృదయం నీ కొరకై పదిలపరచితి (2)\nఆరిపోయిన నా వెలుగు దీపము (2)\nవెలిగించుము నీ ప్రేమతో (2) ప్రభువా      ||ఎన్ని||\n\nఆపదలు నన్ను వెన్నంటియున్నా\nనా కాపరి నీవై నన్నాదుకొంటివి (2)\nలోకమంతయూ నన్ను విడచినా (2)\nనీ నుండి వేరు చెయ్యవు (2) ప్రభువా      ||ఎన్ని||\n\nనా స్థితి గమనించి నన్నూ ప్రేమించి\nనా కొరకై కల్వరిలో యాగమైతివి (2)\nనీదు యాగమే నా మోక్ష మార్గము (2)\nనీయందే నిత్యజీవము (2) ప్రభువా         ||ఎన్ని||\n",
+    "video_links": ""
+  },
+  {
+    "id": 12,
+    "title": "Entho Vintha",
+    "lyrics_en": "﻿Entho Vintha Yentho Chintha\nYesunaadhu Marana Mantha (2)\nPanthamu Tho Jesi Rantha\nSontha Prajalu Swaami Nantha (2)       ||Entho||\n\nPatti Katti Netti Kotti\nThitti Resu Naadhu Nakataa (2)\nAtti Shramala Nondi Paluka\nDaaye Yesu Swaami Naadu (2)      ||Entho||\n\nMoyyaleni Mraanu Nokati\nMopi Resu Veepu Paini (2)\nMoyyaleka Mraani Thoda\nMoorchaboye Nesu Thandri (2)          ||Entho||\n\nKoyyapai Nesayyan Betti\nKaalu Sethulalo Jeelal (2)\nKatinu Lantha Goodi Kottiri\nGhoramuga Kreesthesun Batti (2)       ||Entho||\n\nDaahamu Gona Chedu Chiraka\nDraava Nidiri Drohu Lakataa (2)\nDhaathri Prajala Baadha Korchi\nDhanyudaa Divi Kege Nahahaa (2)       ||Entho||\n\nBallemutho Brakkan Bodavan\nPaare Neeru Raktha Mahahaa (2)\nErai Paare Yesu Raktha\nMella Prajala Kelami Nosagu (2)       ||Entho||\n",
+    "lyrics_tel": "﻿ఎంతో వింత యెంతో చింత\nయేసునాధు మరణ మంత (2)\nపంతము తో జేసి రంత\nసొంత ప్రజలు స్వామి నంత (2)      ||ఎంతో||\n\nపట్టి కట్టి నెట్టి కొట్టి\nతిట్టి రేసు నాధు నకటా (2)\nఅట్టి శ్రమల నొంది పలుక\nడాయె యేసు స్వామి నాడు (2)       ||ఎంతో||\n\nమొయ్యలేని మ్రాను నొకటి\nమోపి రేసు వీపు పైని (2)\nమొయ్యలేక మ్రాని తోడ\nమూర్చబోయే నేసు తండ్రి (2)      ||ఎంతో||\n\nకొయ్యపై నేసయ్యన్ బెట్టి\nకాలు సేతులలో జీలల్ (2)\nకఠిను లంత గూడి కొట్టిరి\nఘోరముగ క్రీస్తేసున్ బట్టి (2)      ||ఎంతో||\n\nదాహము గొన చేదు చిరక\nద్రావ నిడిరి ద్రోహు లకటా (2)\nధాత్రి ప్రజల బాధ కోర్చి\nధన్యుడా దివి కేగె నహహా (2)      ||ఎంతో||\n\nబల్లెముతో బ్రక్కన్ బొడవన్\nపారే నీరు రక్త మహహా (2)\nఏరై పారే యేసు రక్త\nమెల్ల ప్రజల కెలమి నొసగు (2)      ||ఎంతో|\n",
+    "video_links": ""
+  },
+  {
+    "id": 13,
+    "title": "Enduko Nanninthagaa Neevu",
+    "lyrics_en": "﻿Enduko Nanninthagaa Neevu\nPreminchithivo Devaa\nAnduko Naa Deena Stuthi Paathra\nHallelooya Yesayyaa (2)\n\nNaa Paapamu Baapa Nara Roopivainaavu\nNaa Shaapamu Maapa Naligi Vrelaadithivi\nNaaku Chaalina Devudavu Neeve\nNaa Sthaanamulo Neeve (2)    ||Enduko||\n\nNee Roopamu Naalo Nirminchiyunnaavu\nNee Polikalone Nivasinchumannaavu\nNeevu Nannu Ennukontivi\nNee Korakaki Nee Krupalo (2)   ||Enduko||\n\nNaa Shramalu Sahinchi Naa Aashrayamainaavu\nNaa Vyadhalu Bharinchi Nannaadukunnaavu\nNannu Neelo Choochukunnaavu\nNanu Daachiyunnaavu (2)         ||Enduko||\n\nNee Sannidhi Naalo Naa Sarvamu Neelo\nNee Sampada Naalo Naa Sarvasvamu Neelo\nNeevu Nenu Ekamaguvaraku\nNannu Viduvanantive (2)           ||Enduko||\n\nNaa Manavulu Munde Nee Manasulo Neravere\nNaa Manugada Munde Nee Granthamulonunde\nEmi Adbhutha Prema Sankalpam\nNenemi Chellinthun (2)   ||Enduko||\n",
+    "lyrics_tel": "﻿ఎందుకో నన్నింతగా నీవు ప్రేమించితివో దేవా\nఅందుకో నా దీన స్తుతిపాత్ర హల్లెలూయ యేసయ్యా (2)\n\nనా పాపము బాప నరరూపివైనావు\nనా శాపము మాప నలిగి వ్రేలాడితివి\nనాకు చాలిన దేవుడవు నీవే\nనా స్థానములో నీవే (2)         ||ఎందుకో||\n\nనీ రూపము నాలో నిర్మించియున్నావు\nనీ పోలికలోనే నివసించుమన్నావు\nనీవు నన్ను ఎన్నుకొంటివి\nనీ కొరకై నీ కృపలో (2)           ||ఎందుకో||\n\nనా శ్రమలు సహించి నా ఆశ్రయమైనావు\nనా వ్యధలు భరించి నన్నాదుకొన్నావు\nనన్ను నీలో చూచుకున్నావు\nనను దాచియున్నావు (2)       ||ఎందుకో|| \n\nనీ సన్నిధి నాలో నా సర్వము నీలో\nనీ సంపద నాలో నా సర్వస్వము నీలో\nనీవు నేను ఏకమగువరకు\nనన్ను విడువనంటివే (2)        ||ఎందుకో||\n\nనా మనవులు ముందే నీ మనసులో నెరవేరే\nనా మనుగడ ముందే నీ గ్రంథములోనుండే\nఏమి అద్భుత ప్రేమ సంకల్పం\nనేనేమి చెల్లింతున్ (2)             ||ఎందుకో||\n",
+    "video_links": ""
+  },
+  {
+    "id": 14,
+    "title": "Ae Paapamerugani",
+    "lyrics_en": "﻿Ae Paapamerugani Yo Paavana Moorthy Paapa Vimochakundaa\nNaa Paali Daivamaa Naa Paapamula Kora Kee Paatlu Nondinaavaa\n\nMullatho Kireeta – malli Nee Shiramupai – Jallaatamuna Moththiraa\nMulla Potlaku Shiramu – Thalladillaga Somma – sillipothiva Rakshakaa ||Ae Paapa||\n\nKaluvari Giri Danuka – Siluva Moyaleka – Kalavaramu Nondinaavaa\nSiluva Neetho Moya – Thuluvalu Verokani – Thodugaa Nichchinaaraa ||Ae Paapa||\n\nChedugu Yoodulu Bettu – Padaraani Paatlaku – Sudivadi Nadachinaavaa\nKadaku Kalvari Giri – Kada Kegi Silvanu – Grakkuna Dinchinaavaa ||Ae Paapa||\n\nAa Kaala Karmulu – Bheekarambuga Ninnu – Aa Koyyapai Nunchiraa\nNee Kaalu Sethulu – Aa Koyyake Soodi – Mekulatho Gruchchinaaraa ||Ae Paapa||\n\nPaluvidhambula Shramalu – Chelarega Dandriki – Nelugeththi Moralidithivaa\nSiluvapai Palumaaru – Kaluguchundedi Baadha – Valana Daahamu Naayenaa ||Ae Paapa||\n\nBallidundagu Bantu – Ballemuna Nee Prakka – Jilli Bada Bodachinaadaa\nUllolamulavale Nalla Neerubukanga Jallaare Gada Kopamu ||Ae Paapa||\n\nKata Kataa Paapa San – katamu Baaputa Kintha – Patu Baadha Nondinaavaa\nEtuvantidee Prema – Yetuvantidee Shaantha – Metula Varninthu Swaami ||Ae Paapa||\n\n",
+    "lyrics_tel": "﻿ఏ పాపమెరుగని యో పావన మూర్తి పాప విమోచకుండా\nనా పాలి దైవమా నా పాపముల కొర కీ పాట్లు నొందినావా\n\nముళ్ళతో కిరీట – మల్లి నీ శిరముపై – జల్లాటమున మొత్తిరా\nముళ్ళ పోట్లకు శిరము – తల్లడిల్లగ సోమ్మ – సిల్లిపోతివ రక్షకా ||ఏ పాప||\n\nకలువరి గిరి దనుక – సిలువ మోయలేక – కలవరము నొందినావా\nసిలువ నీతో మోయ – తులువలు వేరొకని – తోడుగా నిచ్చినారా ||ఏ పాప||\n\nచెడుగు యూదులు బెట్టు – పడరాని పాట్లకు – సుడివడి నడచినావా\nకడకు కల్వరి గిరి – కడ కేగి సిల్వను – గ్రక్కున దించినావా ||ఏ పాప||\n\nఆ కాల కర్ములు – భీకరంబుగ నిన్ను – ఆ కొయ్యపై నుంచిరా\nనీ కాలు సేతులు – ఆ కొయ్యకే సూది – మేకులతో గ్రుచ్చినారా ||ఏ పాప||\n\nపలువిధంబుల శ్రమలు – చెలరేగ దండ్రికి – నెలుగెత్తి మొరలిడితివా\nసిలువపై పలుమారు – కలుగుచుండెడి బాధ – వలన దాహము నాయెనా ||ఏ పాప||\n\nబల్లిదుండగు బంటు – బల్లెమున నీ ప్రక్క – జిల్లి బడ బొడచినాడా\nఉల్లోలములవలె నల్ల నీరుబుకంగ జల్లారె గద కోపము ||ఏ పాప||\n\nకట కటా పాప సం – కటము బాపుట కింత – పటు బాధ నొందినావా\nఎటువంటిదీ ప్రేమ – యెటువంటిదీ శాంత – మెటుల వర్ణింతు స్వామి ||ఏ పాప||\n",
+    "video_links": ""
+  },
+  {
+    "id": 15,
+    "title": "O Sadbhaktulaaraa",
+    "lyrics_en": "﻿O Sadbhaktulaaraa – Loka Rakshakundu\nBethlehemandu Nedu Janminchen\nRaajaadhi Raaju – Prabhuvaina Yesu\nNamaskarimpa Randi Namaskarimpa Randi\nNamaskarimpa Randi Utsaahamutho\n\nSarveshvarundu – Nara Roopameththi\nKanyaku Butti Nedu Venchesen\nMaanava Janma – Meththina Sree Yesoo\nNeeku Namaskarinchi Neeku Namaskarinchi\nNeeku Namaskarinchi Poojinthumu\n\nO Doothalaaraa – Utsaahinchi Paadi\nRakshakundaina Yesun Sthuthinchudi\nParaathparundaa – Neeku Sthothramanchu\nNamaskarimpa Randi Namaskarimpa Randi\nNamaskarimpa Randi Utsaahamutho\n\nYesu Dhyaaninchi – Nee Pavithra Janma\nEe Vela Sthothramu Narpinthumu\nAnaadi Vaakya – Maaye Nara Roopa\nNamaskarimpa Randi Namaskarimpa Randi\nNamaskarimpa Randi Utsaahamutho\n",
+    "lyrics_tel": "﻿ఓ సద్భాక్తులారా – లోక రక్షకుండు\nబెత్లేహేమందు నేడు జన్మించెన్\nరాజాధి రాజు – ప్రభువైన యేసు\nనమస్కరింప రండి నమస్కరింప రండి\nనమస్కరింప రండి ఉత్సాహముతో\n\nసర్వేశ్వరుండు – నర రూపమెత్తి\nకన్యకు బుట్టి నేడు వేంచేసెన్\nమానవ జన్మ – మెత్తిన శ్రీ యేసూ\nనీకు నమస్కరించి నీకు నమస్కరించి\nనీకు నమస్కరించి పూజింతుము\n\nఓ దూతలారా – ఉత్సాహించి పాడి\nరక్షకుండైన యేసున్ స్తుతించుడి\nపరాత్పరుండా – నీకు స్తోత్రమంచు\nనమస్కరింప రండి నమస్కరింప రండి\nనమస్కరింప రండి ఉత్సాహముతో\n\nయేసు ధ్యానించి – నీ పవిత్ర జన్మ\nఈ వేల స్తోత్రము నర్పింతుము\nఅనాది వాక్య – మాయే నర రూప\nనమస్కరింప రండి నమస్కరింప రండి\nనమస్కరింప రండి ఉత్సాహముతో\n",
+    "video_links": ""
+  }
 ]

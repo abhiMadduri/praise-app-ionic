@@ -69,7 +69,11 @@ export class SongsListPage {
   }
 
   songTapped($event, song) {
+    //TODO : if song lyrics has one language.. then display in single tab page otherwsie multitab page
     this.navCtrl.push(SongDetailPage, song);
   }
 
+  search() {
+    
+  }
 }

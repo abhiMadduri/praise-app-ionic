@@ -23,12 +23,12 @@ export class PraiseApi {
         })
     }
 
-    getAllQuotes() {
-        return new Promise(resolve => {
-            this.http.get('../assets/quotes/quotes_english.json')
-            .subscribe(res => resolve(res.json()));
-        })
-    }
+    // getAllQuotes() {
+    //     return new Promise(resolve => {
+    //         this.http.get('../assets/quotes/quotes_english.json')
+    //         .subscribe(res => resolve(res.json()));
+    //     })
+    // }
 
     getAllEnglishSongs() {
         return new Promise(resolve => {
@@ -65,10 +65,10 @@ export class PraiseApi {
     //     })
     // }
 
-    // getAllQuotes() {
-    //     return new Promise(resolve => {
-    //         this.http.get(`${this.baseUrl}/quotes.json`)
-    //         .subscribe(res => resolve(res.json()));
-    //     })
-    // }
+    getAllQuotes() {
+        return new Promise(resolve => {
+            this.http.get(`${this.baseUrl}/quotes.json`)
+            .subscribe(res => resolve(res.json()));
+        })
+    }
 }

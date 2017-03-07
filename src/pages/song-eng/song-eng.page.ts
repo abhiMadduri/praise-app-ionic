@@ -26,6 +26,7 @@ export class SongEngPage {
     
     this.song = this.navParams.data;
     this.results.push(this.navParams.data);
+    console.log(this.results);
     this.url = this.sanitizer.bypassSecurityTrustResourceUrl('https://youtube.com/embed/CDdvReNKKuk');
 
   }

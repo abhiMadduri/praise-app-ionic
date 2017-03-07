@@ -7,40 +7,12 @@
 <ion-header>
 
   <ion-navbar color = "primary">
-    <ion-title>song-detail</ion-title>
+    <ion-title>Songs</ion-title>
   </ion-navbar>
 
 </ion-header>
 
-
-<ion-content padding>
-  <!--<ion-list>
-        <ion-list-header class="my-teams-header">English Christian Song</ion-list-header>
-         <ion-item *ngFor="let s of results">
-             {{s.lyrics_en}}
-        </ion-item>
-  </ion-list>-->
-  <!--<p *ngFor="let s of results" class = "wrapping-list">
-    {{s.lyrics_en}}
-  </p>-->
-  
-    <!--<div *ngFor="let song of results">
-      <div *ngFor="let s of song">
-        {{s}}
-      </div>
-    </div>-->
-    
-    <!--<div id="mydiv" *ngFor="let s of results">
-      <h2> {{s.title}} </h2>
-      {{s.lyrics_en}}
-    </div>-->
-
-    <!--<iframe height="190" onload="this.width=screen.width" [src]="url" frameborder="0" ></iframe>-->
-  
-</ion-content>
-
 <ion-tabs>
-    <ion-tab tabTitle="Telugu" [root]="songTeluguTab" [rootParams]="song" tabIcon="podium"></ion-tab>
     <ion-tab tabTitle="English" [root]="songEnglishTab" [rootParams]="song" tabIcon="basketball"></ion-tab>
-
+    <ion-tab tabTitle="Telugu" [root]="songTeluguTab" [rootParams]="song" tabIcon="podium"></ion-tab>
 </ion-tabs>
