@@ -1,9 +1,10 @@
 import { NgModule, ErrorHandler } from '@angular/core';
 import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { MyApp } from './app.component';
-import { PraisePage, QuotePage, SongDetailPage, HomePage } from '../pages/pages';
+import { PraisePage, QuotePage, SongDetailPage, HomePage, AddItemPage, PrayerjournalPage } from '../pages/pages';
 import { PraiseEngPage, PraiseTelPage,  SongsListPage, PrettyPrint, SongEngPage, SongTelPage } from '../pages/pages';
-import { PraiseApi } from '../shared/shared';
+import { PraiseApi, Sql } from '../shared/shared';
+import { IonicStorageModule } from '@ionic/storage';
 
 @NgModule({
   declarations: [
@@ -17,10 +18,13 @@ import { PraiseApi } from '../shared/shared';
     SongsListPage,
     PrettyPrint,
     SongEngPage,
-    SongTelPage
+    SongTelPage,
+    AddItemPage,
+    PrayerjournalPage
   ],
   imports: [
-    IonicModule.forRoot(MyApp)
+    IonicModule.forRoot(MyApp),
+    IonicStorageModule.forRoot()    
   ],
   bootstrap: [IonicApp],
   entryComponents: [
@@ -33,10 +37,15 @@ import { PraiseApi } from '../shared/shared';
     PraiseTelPage,
     SongsListPage,
     SongEngPage,
-    SongTelPage
+    SongTelPage,
+    AddItemPage,
+    PrayerjournalPage
   ],
   providers: [
     PraiseApi,
-    {provide: ErrorHandler, useClass: IonicErrorHandler}]
+    Storage,
+    Sql,
+    {provide: ErrorHandler, useClass: IonicErrorHandler},
+  ]
 })
 export class AppModule {}

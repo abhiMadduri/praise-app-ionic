@@ -8,3 +8,5 @@ export * from './songs-list/songs-list.page';
 export * from './song-detail/PrettyPrint';
 export * from './song-eng/song-eng.page';
 export * from './song-tel/song-tel.page';
+export * from './add-item/add-item.page';
+export * from './prayerjournal/prayerjournal.page';

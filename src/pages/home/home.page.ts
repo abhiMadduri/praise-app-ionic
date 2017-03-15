@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavController, NavParams } from 'ionic-angular';
-import { PraisePage, QuotePage, SongsListPage } from '../pages';
+import { PraisePage, QuotePage, SongsListPage, PrayerjournalPage } from '../pages';
 /*
   Generated class for the Home page.
 
@@ -37,6 +37,10 @@ export class HomePage {
 
   ssSongsTapped($event, page) {
     this.navCtrl.push(SongsListPage, SongType.SUNDAYSCHOOL);
+  }
+
+  prayerTapped($event, page) {
+    this.navCtrl.push(PrayerjournalPage);
   }
 }
 
