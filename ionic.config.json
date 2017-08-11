@@ -1,6 +1,5 @@
 {
   "name": "praise-app",
   "app_id": "2e823a05",
-  "typescript": true,
-  "v2": true
+  "type": "ionic-angular"
 }
